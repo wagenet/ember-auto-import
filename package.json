@@ -25,7 +25,7 @@
   "pnpm": {
     "patchedDependencies": {
       "fastboot": "patches/fastboot.patch",
-      "@embroider/macros@1.19.7": "patches/@embroider__macros@1.19.7.patch"
+      "@embroider/macros@1.20.2": "patches/@embroider__macros@1.20.2.patch"
     }
   }
 }
